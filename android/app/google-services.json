@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659908145556",
+    "project_id": "crewcoffe",
+    "storage_bucket": "crewcoffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659908145556:android:4fda524c7121af899d1f81",
+        "android_client_info": {
+          "package_name": "com.example.crewcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659908145556-oasojgbepfb5b77gam9pqlocugj37e5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crewcoffee",
+            "certificate_hash": "fe6568d4388060c63bf70df82ea7a172af4f9acd"
+          }
+        },
+        {
+          "client_id": "659908145556-mne3hlflodbije9ogc3f21kqpte6ippr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETXWwP9sy5_kaQv_BC3-GNp9ApWRJdps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659908145556-mne3hlflodbije9ogc3f21kqpte6ippr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
